@@ -234,6 +234,7 @@ a:hover {
 
 .coin-desc {
   flex: 0.5;
+  height: 0px;
 }
 
 .coin-links {
